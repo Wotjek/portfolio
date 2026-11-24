@@ -6,6 +6,12 @@ device. Built with Flutter and Firebase, developed since December 2025 and, sinc
 through my [multi-agent delivery platform](../agent-platform/README.md). Now in closed beta on
 TestFlight.
 
+**Video (1:19, no sound):** [ice-breaker-showcase.mp4](media/ice-breaker-showcase.mp4). The first half shows
+the game, the second half shows how the platform builds it: executor, reviewer, my product
+questions, the smoke test and the guards.
+
+![Ice Breaker: game modes](media/preview-game-modes.gif)
+
 <p>
   <img src="media/01-start.jpg" width="240" alt="Start">
   <img src="media/02-game-modes.jpg" width="240" alt="Game modes">

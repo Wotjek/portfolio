@@ -7,6 +7,11 @@ test on a device and anything irreversible.
 
 Built with Python and JavaScript on top of Claude Code and Codex CLI. In use since September 2026.
 
+![Dashboard walkthrough](media/preview-dashboard.gif)
+
+The full walkthrough is in the [Ice Breaker video](../ice-breaker/media/ice-breaker-showcase.mp4)
+(second half).
+
 ![Dashboard: an executor agent is working on a package](media/dashboard-centre-executor-running.png)
 
 *Dashboard with demo data: the current work package, who has the ball (owner, Claude, Codex),
@@ -48,6 +53,11 @@ flowchart TD
 ![Inbox with an owner decision](media/dashboard-inbox-owner-decision.png)
 
 *The inbox holds only what needs a human decision.*
+
+![Smoke test checklist](media/dashboard-smoke-checklist.png)
+
+*My part of the smoke test: each item is marked as working, broken or skipped, with notes and
+screenshots. A clean checklist lets the orchestrator merge.*
 
 ## Running for hours without supervision
 

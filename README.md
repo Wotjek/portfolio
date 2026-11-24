@@ -35,14 +35,10 @@ test decide when it can merge. I take part only where a human decision is needed
 
 ## Ice Breaker: party game
 
-<p>
-  <img src="ice-breaker/media/01-start.jpg" width="200" alt="Start screen">
-  <img src="ice-breaker/media/02-game-modes.jpg" width="200" alt="Game modes">
-  <img src="ice-breaker/media/07-online-about-me.jpg" width="200" alt="Online mode">
-</p>
+[![Ice Breaker: game modes](ice-breaker/media/preview-game-modes.gif)](ice-breaker/README.md)
 
 Question, voting and quiz games for groups, played on one phone or online with everyone on
-their own device. [Read more →](ice-breaker/README.md)
+their own device. [Read more and watch the video →](ice-breaker/README.md)
 
 ---
 
