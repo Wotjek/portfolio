@@ -22,7 +22,7 @@ and a video only, so nothing here can be built or copied.
 
 Log a meal from a photo or a sentence, scan a barcode, check a label, see the weight trend.
 Built in three weeks with 770+ pull requests and about 7,900 automated tests.
-[Read more and watch the 2-minute video →](crumbly/README.md)
+[Read more and watch the video →](crumbly/README.md)
 
 ## Multi-agent delivery platform
 

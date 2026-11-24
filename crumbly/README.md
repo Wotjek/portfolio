@@ -6,10 +6,12 @@ An iOS app for counting calories and macros without the usual friction. I lead i
 owner and deliver it with AI agents. Started on 3 November 2026, in production since
 6 November, now in daily use with 10 testers on TestFlight.
 
-**Video (2:00, no sound):** [crumbly-showcase.mp4](media/crumbly-showcase.mp4)
+**Video (1:41, no sound):** [crumbly-showcase.mp4](media/crumbly-showcase.mp4)
 
 > Tip: to get an inline player on GitHub, open this file in the web editor and drag the mp4
 > into it. GitHub then hosts the video and shows a player.
+
+![Crumbly: AI photo logging](media/preview-ai-photo.gif)
 
 ![Title](media/01-title.jpg)
 
@@ -20,13 +22,16 @@ Up to three photos and a short note. The model recognises dishes and ingredients
 a meal you can edit item by item. Nothing is saved until you confirm. You can also describe a
 meal in words ("burger from the menu") or ask the assistant about your day.
 
-![AI photo](media/04-ai-photo.jpg)
+![AI photo](media/03-ai-photo.jpg)
+![AI ingredients](media/04-ai-ingredients.jpg)
 ![AI text and chat](media/05-ai-text.jpg)
 
 ### Checks instead of blind trust
-AI reads the nutrition table from a photo of a label and compares it with the product
-database field by field. Estimates go through plausibility checks before they reach the diary.
+Scan a barcode to get the product from a shared database. If the numbers look off, AI reads
+the nutrition table from a photo of the label and compares it with the database field by
+field. Estimates go through plausibility checks before they reach the diary.
 
+![Barcode](media/06-barcode.jpg)
 ![Label check](media/07-label-check.jpg)
 
 ### A plan that adapts
@@ -34,19 +39,17 @@ A short onboarding sets the goal, the pace and a few safety questions, then a da
 macro target. The target is recalibrated from the weight trend and Apple Health activity.
 
 ![Plan](media/02-plan.jpg)
-![Progress](media/09-progress.jpg)
+![Progress](media/12-progress.jpg)
 
 ### Everyday logging
-Barcode scanning with a shared product database, portions of home-cooked dishes, "same as
-yesterday", water, steps and workouts from Apple Health, challenges, sharing a meal or a whole
-day with a friend, and home screen widgets.
+Portions of home-cooked dishes sliced on a board or plate, pieces of fruit or eggs, "same as
+yesterday", water, workouts from Apple Health, weekly challenges, sharing a meal or a whole
+day by link or QR code, and home screen widgets.
 
-![Today](media/03-today.jpg)
-![Barcode](media/06-barcode.jpg)
 ![Portions](media/08-portions.jpg)
-![Habits](media/10-habits.jpg)
+![Same as yesterday](media/09-same-as-yesterday.jpg)
+![Challenges](media/10-challenges.jpg)
 ![Sharing](media/11-sharing.jpg)
-![Widgets](media/12-widgets.jpg)
 
 ### Crumbly Plus
 AI features (photo and text logging, restaurant dishes looked up on the web, meal ideas) are
